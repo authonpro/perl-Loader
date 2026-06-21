@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://authon.pro">Website</a> •
   <a href="https://authon.pro/docs">Docs</a> •
-  <a href="https://discord.gg/jMZCTKPsmE">Discord</a> •
+  <a href="https://discord.gg/MTY79JDFm6">Discord</a> •
   <a href="https://authon.pro/status">Status</a>
 </p>
 
@@ -45,7 +45,7 @@ perl example.pl
 
 - 🌐 Website: https://authon.pro
 - 📖 Docs: https://authon.pro/docs
-- 💬 Discord: https://discord.gg/jMZCTKPsmE
+- 💬 Discord: https://discord.gg/MTY79JDFm6
 - 📊 Status: https://authon.pro/status
 
 ## License
